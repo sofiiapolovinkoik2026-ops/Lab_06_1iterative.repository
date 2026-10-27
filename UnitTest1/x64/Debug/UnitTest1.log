@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (Lab_06_1.bfc4e9f3\x64\Debug\) contains files shared from another project (Lab_06_1.interative.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UnitTest1.cpp
+     Creating library C:\st\AP\06\Lab_06_1\Lab_06_1interative\x64\Debug\UnitTest1.lib and object C:\st\AP\06\Lab_06_1\Lab_06_1interative\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\st\AP\06\Lab_06_1\Lab_06_1interative\x64\Debug\UnitTest1.dll
